@@ -1,0 +1,393 @@
+body{
+    margin: 0;
+
+}
+.container
+{
+width: 1200px;
+margin: auto;
+}
+
+.divone
+{
+
+        width: 100%;
+}
+
+.divtwo
+{
+        width: 100%;
+        height: 1280px;
+        background-image: url('../images/hero-bg.jpg');
+       background-size: cover;
+}
+
+.header .navebar
+{
+    background-color: #17181A  ;
+    height: 55px;
+        overflow: hidden;
+}
+    
+.header .navebar h2{
+    color: rgb(255, 255, 255);
+    float: left;
+    font-family: "Arial black"; 
+       margin: 15px;
+       margin-right: 280px;
+
+    width: 20%;
+}
+.header .navebar .list {
+    list-style: none;
+    display: inline;
+    padding-left: 0; 
+     font-family: "Arial "; 
+     overflow: hidden;
+
+    
+}
+.list li{
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+    float: left;
+    
+
+}
+
+li .ww{text-decoration: none;
+    color: white;
+} 
+.ww:hover{
+
+    color:#D04824 ;
+
+}
+
+
+
+
+
+
+.intro{
+
+    
+    text-align: center;
+    padding: 400px;
+}
+
+.intro .s1{font-family: "Arial";
+    font-size: 30px ;color: rgb(151, 151, 151);
+    margin-top: 50px;
+    margin-bottom: 200px;  
+      text-align: center;
+
+  
+
+}
+.intro .s2
+{
+    font-size: 50px ;color: white;font-family: "Arial black";    text-align: center;}
+.intro .s3{font-size: 15px ;color: white;    text-align: center;}
+.b1{ width: 150px; height: 50px;
+    font-family: "Arial black";; font-size: 19px;color:#DF4D13 ; background-color: inherit;border-radius: 2px; border-style:solid ;; border-color: #DF4D13; ;}
+.b2{width: 500px;
+border-style: none;
+    height: 50px;
+    margin-left: 30px;
+    font-size: 15px;
+    background-color: #E34F11;
+    color: white;
+    font-family: Arial;}
+
+button.b1:hover
+{    color:white ;
+}
+.intro .s3:hover
+{
+    color:black ;
+}
+/* fet start*/
+.fetures
+{  
+     height: 500px;  
+     background-color: #17181A;
+}
+
+ .fetures .container .left
+ {
+    width: 46%;
+    height: 400px;
+    background-color: #17181A;
+    float: left;
+    padding-left: 5px;
+    
+ }
+.fetures .container .right
+    {
+        width: 51%;
+        height: 350px;      
+        background-color: #17181A;
+        float: right;  
+        padding-top: 125px;
+
+    }
+
+  .right .resize
+   {
+      border: #2b2c2e;
+      border-left-style: solid;
+      border-left-width:2px ;
+   }  
+    .fetures .container .right p
+    { padding-left: 60px;
+        font-size: 18.5px;
+        color: white  ;
+        font-family: Arial;
+
+    }
+    .fetures .container .right h1{ 
+        font-family: "Arial Narrow";
+    }
+
+
+    .fetures h2{
+        font-size: xx-large;
+       text-align: left;
+       padding-left: 30px;
+       color: #BA401B;
+       font-family: "Arial black";
+    }
+    .fetures .h2p1{
+        font-size: xx-large;
+       text-align: left;
+       padding-left: 30px;
+       color: white;
+       font-size: 27px;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+    .fetures .h2p2{
+        font-size: small;
+       text-align: left;
+       padding-left: 30px;
+       color: rgb(121, 119, 128);
+       font-size: 20px;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+
+    .coach{
+        height: 450px;
+        background-color: #e7e7e7;
+padding-top: 30px;
+    }
+
+.coachleft
+{   
+    height: 400px;
+    background-color:#e7e7e7;
+    float: left;
+    width:50%;
+    margin-right: 0px;
+}
+
+    .ch1{
+        
+        font-family: "arial black";
+        font-size: 30px;
+        padding-top :30px;
+        padding-left :100px;
+        padding-bottom: 25px ;
+
+    }
+    .cp1{
+    font-size: 20px;
+    padding-left: 100px;
+padding-right: 150px;
+}
+.coachright{
+    height: 80%;
+    
+    background-color: #e7e7e7;
+    float: right;
+
+width: 50%;}
+
+.coachright .coachone
+{
+    
+width: 150px;
+height: 180px;
+float: left;
+}
+
+.coachright .coachtwo
+{
+   
+    float: left;
+    width: 150px;
+height: 180px;
+}
+
+.para {
+width: 100%;
+    height: 20%;
+    float: left;
+}
+
+.para .qwqw{
+    float: left;
+    margin-left: 95px;
+    margin-top: -45px;
+}
+.para .qwqw2{
+    float: left;
+    margin-left: 40px;
+    margin-top: -45px;
+}
+
+
+
+
+/*fet end */
+
+
+
+    /* start class -->*/
+.classes
+{
+    height: 700px;
+    background-color: #F5F9FC;
+}
+.classes .chead{
+    width: 100%;
+    height: 200px;
+    background-color:#F5F9FC;
+    text-align: center;
+    margin-top:-18px;
+    padding: 0 auto;
+}
+
+.classes .chead p{
+    padding-top: 60px;
+    
+}
+.classes .cpix{
+    width: 100%;
+    height: 200px;
+}
+.cpix .cpix1{
+    width:33.333333% ;
+    height: 280px;
+    
+    float: left;
+
+}
+.classes .cabout{
+    width: 100%;
+    height: 140px;
+}
+.cabout .cabout1{
+    width:30% ;
+    height: 140px;
+    margin-right:40px;
+    float: left;
+
+}
+.cabout1 p{
+    font-family: Arial;
+    color: #8C8D91;
+    padding-left: 20px;
+}.cabout1 h1{    padding-left: 20px;
+
+margin-bottom: -5px;}
+
+ /* end class -->*/
+
+  /* start table -->*/
+.table{
+background-color: #17181A;
+    
+    height: 750px;
+    padding-top: 90px;
+    color: white;
+}
+ .table .chead
+ {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+.table table
+{
+text-align: center;
+width: 100%;
+height: 300px;
+}
+
+.table th
+{
+font-family: arial;
+padding: 21px;
+    background-color: #D04824;
+}
+
+
+.table h1
+{
+    font-family: "Arial black";
+    font-size: 19px;
+
+}
+.table p
+{
+    color: #8C8D91;
+    font-family: Arial;
+}
+table, td, th
+{
+    border:0.5px solid rgb(0, 0, 0);
+} 
+    /* end table -->*/
+
+
+  
+.about
+{
+        height: 600px;
+        background-color: #F1F1F1;
+}
+    
+.about .aright
+{
+    width: 42%;
+    padding-left: 100px;
+
+    float: left;   
+} 
+
+
+.about .aright input,textarea{width: 60%;}
+
+
+
+
+.footer
+{
+        height: 200px;
+        margin-top: -8px;
+        background-color: #F4F4F4;
+}
+   
+.footer .fleft
+ {
+        float: left;
+        padding-right: 40px;
+ }
+ .footer .fright
+ {   
+        float: left;
+ }

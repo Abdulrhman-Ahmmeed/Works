@@ -1,0 +1,48 @@
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.deps.json
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.dll
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.pdb
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.dll
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.pdb
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csprojAssemblyReference.cache
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfoInputs.cache
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfo.cs
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CoreCompileInputs.cache
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CopyComplete
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.dll
+C:/Users/abdel/Source/Repos/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.pdb
+/home/abdulrhman/Desktop/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.deps.json
+/home/abdulrhman/Desktop/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.dll
+/home/abdulrhman/Desktop/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.pdb
+/home/abdulrhman/Desktop/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.dll
+/home/abdulrhman/Desktop/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.pdb
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csprojAssemblyReference.cache
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfoInputs.cache
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfo.cs
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CoreCompileInputs.cache
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CopyComplete
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.dll
+/home/abdulrhman/Desktop/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.pdb
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.deps.json
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.dll
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.pdb
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.dll
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.pdb
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csprojAssemblyReference.cache
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfoInputs.cache
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfo.cs
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CoreCompileInputs.cache
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CopyComplete
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.dll
+/home/abdulrhman/Desktop/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.pdb
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.deps.json
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.dll
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Infrastracture.pdb
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.dll
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/bin/Debug/netstandard2.0/Core.pdb
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csprojAssemblyReference.cache
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfoInputs.cache
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.AssemblyInfo.cs
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CoreCompileInputs.cache
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.csproj.CopyComplete
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.dll
+/home/abdulrhman/Desktop/Int/Save (copy)/BookStore/Infrastracture/obj/Debug/netstandard2.0/Infrastracture.pdb

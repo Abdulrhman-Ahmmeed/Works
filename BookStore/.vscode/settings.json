@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "username": "sa",
+            "database": "BookStoreDB",
+            "name": "localhost"
+        }
+    ]
+}
